@@ -1,0 +1,1 @@
+kandaki durumlara bakarak ve kişiye sorulan sorularla kişide diyabet hastalığı olup olmama tahmini
